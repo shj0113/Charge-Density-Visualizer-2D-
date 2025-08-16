@@ -68,4 +68,7 @@ For sparse k-point grids, RBF interpolation can be used, but it is computational
 
 👉 Instead, it is recommended to increase the k-point density and recalculate.
 
+## 📄 License
+
+MIT License
 
