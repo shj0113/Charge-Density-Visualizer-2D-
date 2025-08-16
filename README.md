@@ -3,6 +3,7 @@ Visualize 2D charge density difference maps from VASP calculations
 
 ## 📖 Overview
 This project provides a simple way to visualize charge density difference data in 2D using Python.
+
 The script is designed for **orthorhombic cells** only and supports visualization along three different directions.
 <img width="1545" height="428" alt="image" src="https://github.com/user-attachments/assets/69faa57a-6ab6-41a3-9b3e-bbc988cd99db" />
 
