@@ -1,8 +1,8 @@
 # Charge Density Visualizer (2D)
 
 Visualize 2D charge density difference maps from VASP calculations
-📄 Publication: [Nature Nanotechnology (2024)](https://www.nature.com/articles/s41565-024-01831-x)
-<img width="1139" height="447" alt="그림1" src="https://github.com/user-attachments/assets/d7af5837-4140-46ec-aecf-dbacd536f2fb" />
+
+Publication: [Nature Nanotechnology (2024)](https://www.nature.com/articles/s41565-024-01831-x)
 
 
 ## 📖 Overview
@@ -63,6 +63,7 @@ ax.scatter(O_df['y'], O_df['z'], s=150,facecolors="#FF0F4A", edgecolors='black',
 ```
 
 4. Run the notebook to generate the 2D plots.
+<img width="1139" height="447" alt="그림1" src="https://github.com/user-attachments/assets/d7af5837-4140-46ec-aecf-dbacd536f2fb" />
 
 
 ## 📌 Notes
