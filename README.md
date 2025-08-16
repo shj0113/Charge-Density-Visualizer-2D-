@@ -63,6 +63,7 @@ ax.scatter(O_df['y'], O_df['z'], s=150,facecolors="#FF0F4A", edgecolors='black',
 
 ## 📌 Notes
 For sparse k-point grids, RBF interpolation can be used, but it is computationally expensive.
+
 👉 Instead, it is recommended to increase the k-point density and recalculate.
 
 
