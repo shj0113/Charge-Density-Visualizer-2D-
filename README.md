@@ -58,7 +58,11 @@ ax.scatter(O_df['y'], O_df['z'], s=150,facecolors="#FF0F4A", edgecolors='black',
 ```
 
 4. Run the notebook to generate the 2D plots.
+<img width="3305" height="1348" alt="그림1" src="https://github.com/user-attachments/assets/e6db572f-647c-4309-b729-fc68c98e82ef" />
+
 
 ## 📌 Notes
 For sparse k-point grids, RBF interpolation can be used, but it is computationally expensive.
 👉 Instead, it is recommended to increase the k-point density and recalculate.
+
+
