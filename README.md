@@ -59,7 +59,7 @@ ax.scatter(O_df['y'], O_df['z'], s=150,facecolors="#FF0F4A", edgecolors='black',
 ```
 
 4. Run the notebook to generate the 2D plots.
-<img width="3305" height="1348" alt="그림1" src="https://github.com/user-attachments/assets/e6db572f-647c-4309-b729-fc68c98e82ef" />
+<img width="1441" height="501" alt="그림1" src="https://github.com/user-attachments/assets/9632af86-364c-4cd1-bbea-ad8fda9be9b7" />
 
 
 ## 📌 Notes
