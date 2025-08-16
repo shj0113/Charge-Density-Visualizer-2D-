@@ -1,9 +1,6 @@
 # Charge Density Visualizer (2D)
 
-Visualize 2D charge density difference maps from VASP calculations
-
-Publication: [Nature Nanotechnology (2024)](https://www.nature.com/articles/s41565-024-01831-x)
-
+Visualize 2D charge density difference maps from VASP calculations ([Nature Nanotechnology (2024)](https://www.nature.com/articles/s41565-024-01831-x))
 
 ## 📖 Overview
 This project provides a simple way to visualize charge density difference data in 2D using Python.
