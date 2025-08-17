@@ -2,21 +2,21 @@
 
 Visualize 2D charge density difference maps from VASP calculations [[Nature Nanotechnology (2024)](https://www.nature.com/articles/s41565-024-01831-x)]
 
-## 📖 Overview
+## Overview
 This project provides a simple way to visualize charge density difference data in 2D using Python.
 
 The script is designed for **orthorhombic cells** only and supports visualization along three different directions.
 <img width="1545" height="428" alt="image" src="https://github.com/user-attachments/assets/69faa57a-6ab6-41a3-9b3e-bbc988cd99db" />
 
 
-## ⚡ Features
+## Features
 - Visualize 2D charge density difference maps.
 - Slice atomic positions to selectively plot atoms, or plot all atoms.
 - Separate atomic data into element-specific DataFrames (based on POSCAR).
 - Adjustable color bar range (vmin, vmax) based on dataset min/max values.
 - Atom plotting aligned with the chosen axis (x, y, or z).
 
-## 🚀 Usage
+## Usage
 1. Download and open the Jupyter notebook
 
 2. Modify the following sections before running:
@@ -63,12 +63,12 @@ ax.scatter(O_df['y'], O_df['z'], s=150,facecolors="#FF0F4A", edgecolors='black',
 <img width="1139" height="447" alt="그림1" src="https://github.com/user-attachments/assets/d7af5837-4140-46ec-aecf-dbacd536f2fb" />
 
 
-## 📌 Notes
+## Notes
 For sparse k-point grids, RBF interpolation can be used, but it is computationally expensive.
 
 👉 Instead, it is recommended to increase the k-point density and recalculate.
 
-## 📄 License
+## License
 
 MIT License
 
